@@ -1,4 +1,9 @@
-#Switch Block List
+#Wii U & 3DS
+#cbvc.cdn.nintendo.net
+#nus.c.shop.nintendowifi.net
+#nus.cdn.c.shop.nintendowifi.net
+
+#Switch
 sun.hac.lp1.d4c.nintendo.net
 receive-lp1.dg.srv.nintendo.net
 ecs-lp1.hac.shop.nintendo.net
